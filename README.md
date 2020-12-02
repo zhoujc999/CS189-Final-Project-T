@@ -3,7 +3,7 @@
 Project Members: Jingchao Zhou, Simran Regmi
 
 Learning Objectives:
-1) Provide an introduction to AWS services, particular SageMaker
+1) Provide an introduction to AWS services, particularly SageMaker
 2) Learn how to use PyTorch and SageMaker
 3) Understand how cloud computing works and why its relevant to machine learning
 4) Understand how to evaluate performance of the model
