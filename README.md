@@ -5,7 +5,7 @@ Project Members: Jingchao Zhou, Simran Regmi
 Learning Objectives:
 1) Provide an introduction to AWS services, particularly SageMaker
 2) Learn how to use PyTorch and SageMaker
-3) Understand how cloud computing works and why its relevant to machine learning
+3) Understand how cloud computing works and why it's relevant to machine learning
 4) Understand how to evaluate performance of the model
 6) How to import data from and store data to S3
 7) How to implement and train a CNN model on the MNIST dataset
