@@ -20,4 +20,4 @@ Repository Navigation: We have listed all the files/folders present in our repo 
 3) Quiz Solutions: This file contains our quiz questions solutions for this topic.
 4) Quiz: This file contains our quiz questions for this topic.
 6) Project T Notes.pdf: This pdf contains our Latex notes regarding this topic: Introduction to Cloud Computing.
-7) Project T Presentation.pdf: This pdf contains our slidedeck that is a sort of summary of our notes.
+7) Project T.pdf: This pdf contains our slidedeck that is a sort of summary of our notes.
