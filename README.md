@@ -14,9 +14,8 @@ Learning Objectives:
 Repository Navigation: We have listed all the files/folders present in our repo below as well as what each contains.
 1) AWS Assignment Solutions: This folder contains our assignment solutions for using PyToch on AWS SageMaker.
 2) AWS Assignment: This folder contains our assignment for this topic for using PyToch on AWS SageMaker.
-1) GCP Assignment Solutions: This folder contains our assignment solutions for using Keras on GCP Jupyter notebook.
-2) GCP Assignment: This folder contains our assignment for this using Keras on GCP Jupyter notebook.
-3) Quiz Solutions: This file contains our quiz questions solutions for this topic.
-4) Quiz: This file contains our quiz questions for this topic.
+3) GCP Assignment Solutions: This folder contains our assignment solutions for using Keras on GCP Jupyter notebook.
+4) GCP Assignment: This folder contains our assignment for this using Keras on GCP Jupyter notebook.
+5) Quiz Folder: This folder contains two files: Intro to Cloud Computing + ML Quiz Solutions.pdf, our quiz questions solutions for this topic and Intro to Cloud Computing + ML Quiz.pdf, our quiz questions for this topic.
 6) Project T Notes.pdf: This pdf contains our Latex notes regarding this topic: *Introduction to Cloud Computing*.
-7) Project T.pdf: This pdf contains our slidedeck that is a sort of summary of our notes.
+7) Project T.pdf: This pdf contains our slidedeck!
